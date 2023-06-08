@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Daily/2023-06-07.md",
+                "file": "1. Daily/2023-06-09.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "d94044c2d3122500",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Daily/2023-06-07.md",
+                "file": "1. Daily/2023-06-09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Daily/2023-06-07.md",
+                "file": "1. Daily/2023-06-09.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Daily/2023-06-07.md"
+                "file": "1. Daily/2023-06-09.md"
               }
             }
           },
@@ -143,8 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -159,15 +157,14 @@
   },
   "active": "2628aeabe78250ce",
   "lastOpenFiles": [
-    "README.md",
-    "1. Daily/2023-06-08.md",
+    "1. Daily/2023-06-07.md",
+    "Attached file/스크린샷 2023-06-08 오후 4.51.06.png",
     "1. Daily/2023-06-09.md",
+    "README.md",
     "무제 파일.canvas",
     "2. Weekly/무제 파일.md",
     "gitignore.md",
-    "무제 파일.md",
     "무제 폴더",
-    "1. Daily/2023-06-07.md",
     "1..md",
     "2023-06-07.md",
     "Attached file",
