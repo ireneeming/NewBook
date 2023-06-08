@@ -1,0 +1,173 @@
+{
+  "main": {
+    "id": "c67950efdb41a60b",
+    "type": "split",
+    "children": [
+      {
+        "id": "d431bc1a71f3f8c7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2628aeabe78250ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Daily/2023-06-07.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b37b554d75e5893a",
+    "type": "split",
+    "children": [
+      {
+        "id": "db93da7682cbe785",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f7fec050089c8740",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "95ab4a6a02c1cc3d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7e8778ceb545b1f5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d94044c2d3122500",
+    "type": "split",
+    "children": [
+      {
+        "id": "101375f17a8ffa4a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a23c947300f947db",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1. Daily/2023-06-07.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "88e4d307d38c570f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "1. Daily/2023-06-07.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8a7f827faef69f77",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3cafac6f3e931666",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1. Daily/2023-06-07.md"
+              }
+            }
+          },
+          {
+            "id": "b08156eb77982acf",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "2628aeabe78250ce",
+  "lastOpenFiles": [
+    "1. Daily/2023-06-08.md",
+    "1. Daily/2023-06-07.md",
+    "무제 폴더",
+    "1..md",
+    "2023-06-07.md",
+    "무제 파일.canvas",
+    "Attached file",
+    "4. Yearly",
+    "3. Monthly",
+    "2. Weekly",
+    "Daily/무제 파일.md",
+    "1. Daily"
+  ]
+}
