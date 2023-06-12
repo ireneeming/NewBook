@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Daily/2023-06-09.md",
+                "file": "1. Daily/2023-06-12.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Daily/2023-06-09.md",
+                "file": "1. Daily/2023-06-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Daily/2023-06-09.md",
+                "file": "1. Daily/2023-06-12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Daily/2023-06-09.md"
+                "file": "1. Daily/2023-06-12.md"
               }
             }
           },
@@ -157,9 +157,11 @@
   },
   "active": "2628aeabe78250ce",
   "lastOpenFiles": [
+    "언어 활용 - 프로그래밍 언어.md",
+    "1. Daily/2023-06-12.md",
+    "1. Daily/2023-06-09.md",
     "1. Daily/2023-06-07.md",
     "Attached file/스크린샷 2023-06-08 오후 4.51.06.png",
-    "1. Daily/2023-06-09.md",
     "README.md",
     "무제 파일.canvas",
     "2. Weekly/무제 파일.md",
